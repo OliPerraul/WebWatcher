@@ -1,0 +1,201 @@
+﻿Installing assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Installing service WebWatcher...
+Creating EventLog source WebWatcher in log Application...
+Rolling back assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Restoring event log to previous state for source WebWatcher.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Installing service WebWatcher...
+Creating EventLog source WebWatcher in log Application...
+Rolling back assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Restoring event log to previous state for source WebWatcher.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Installing service WebWatcher...
+Creating EventLog source WebWatcher in log Application...
+Rolling back assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Restoring event log to previous state for source WebWatcher.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Installing service WebWatcher...
+Creating EventLog source WebWatcher in log Application...
+Rolling back assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Restoring event log to previous state for source WebWatcher.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Installing service WebWatcher...
+Creating EventLog source WebWatcher in log Application...
+Rolling back assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Restoring event log to previous state for source WebWatcher.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Installing service WebWatcher...
+Creating EventLog source WebWatcher in log Application...
+Rolling back assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Restoring event log to previous state for source WebWatcher.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Installing service WebWatcher...
+Creating EventLog source WebWatcher in log Application...
+Rolling back assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Restoring event log to previous state for source WebWatcher.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Installing service WebWatcher...
+Service WebWatcher has been successfully installed.
+Creating EventLog source WebWatcher in log Application...
+Committing assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Installing service WebWatcher...
+Creating EventLog source WebWatcher in log Application...
+Rolling back assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Restoring event log to previous state for source WebWatcher.
+Installing assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Installing service WebWatcher...
+Creating EventLog source WebWatcher in log Application...
+Rolling back assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Restoring event log to previous state for source WebWatcher.
+Installing assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Installing service WebWatcher...
+Creating EventLog source WebWatcher in log Application...
+Rolling back assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Restoring event log to previous state for source WebWatcher.
+Installing assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
+Installing service WebWatcher...
+Service WebWatcher has been successfully installed.
+Creating EventLog source WebWatcher in log Application...
+Committing assembly 'C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.InstallLog
+   assemblypath = C:\Users\bigol\Desktop\repos\WebWatcher\WebWatcher\bin\Release\WebWatcher.exe
+   logtoconsole = 
